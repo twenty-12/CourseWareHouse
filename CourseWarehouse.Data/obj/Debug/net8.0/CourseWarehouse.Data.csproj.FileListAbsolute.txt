@@ -1,0 +1,12 @@
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\bin\Debug\net8.0\CourseWarehouse.Data.deps.json
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\bin\Debug\net8.0\CourseWarehouse.Data.dll
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\bin\Debug\net8.0\CourseWarehouse.Data.pdb
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\CourseWarehouse.Data.csproj.AssemblyReference.cache
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\CourseWarehouse.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\CourseWarehouse.Data.AssemblyInfoInputs.cache
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\CourseWarehouse.Data.AssemblyInfo.cs
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\CourseWarehouse.Data.csproj.CoreCompileInputs.cache
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\CourseWarehouse.Data.dll
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\refint\CourseWarehouse.Data.dll
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\CourseWarehouse.Data.pdb
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Data\obj\Debug\net8.0\ref\CourseWarehouse.Data.dll

@@ -1,0 +1,15 @@
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWarehouse.Services.csproj.AssemblyReference.cache
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWarehouse.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWarehouse.Services.AssemblyInfoInputs.cache
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWarehouse.Services.AssemblyInfo.cs
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWarehouse.Services.csproj.CoreCompileInputs.cache
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\bin\Debug\net8.0\CourseWarehouse.Services.deps.json
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\bin\Debug\net8.0\CourseWarehouse.Services.dll
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\bin\Debug\net8.0\CourseWarehouse.Services.pdb
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\bin\Debug\net8.0\CourseWarehouse.Data.dll
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\bin\Debug\net8.0\CourseWarehouse.Data.pdb
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWa.5504A58C.Up2Date
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWarehouse.Services.dll
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\refint\CourseWarehouse.Services.dll
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\CourseWarehouse.Services.pdb
+C:\Users\twenty-12\RiderProjects\CourseWarehouse.API\CourseWarehouse.Services\obj\Debug\net8.0\ref\CourseWarehouse.Services.dll

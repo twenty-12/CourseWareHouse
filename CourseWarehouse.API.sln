@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseWarehouse.API", "CourseWarehouse.API\CourseWarehouse.API.csproj", "{7A632F76-371E-41AB-8CCC-67CC2506C907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseWarehouse.Services", "CourseWarehouse.Services\CourseWarehouse.Services.csproj", "{57AA3B11-8890-47B5-A82C-B7FE9801AB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseWarehouse.Data", "CourseWarehouse.Data\CourseWarehouse.Data.csproj", "{2E4EA64F-2488-4BA0-A84D-4938008A1D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A632F76-371E-41AB-8CCC-67CC2506C907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A632F76-371E-41AB-8CCC-67CC2506C907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A632F76-371E-41AB-8CCC-67CC2506C907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A632F76-371E-41AB-8CCC-67CC2506C907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AA3B11-8890-47B5-A82C-B7FE9801AB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AA3B11-8890-47B5-A82C-B7FE9801AB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AA3B11-8890-47B5-A82C-B7FE9801AB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AA3B11-8890-47B5-A82C-B7FE9801AB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4EA64F-2488-4BA0-A84D-4938008A1D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4EA64F-2488-4BA0-A84D-4938008A1D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4EA64F-2488-4BA0-A84D-4938008A1D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4EA64F-2488-4BA0-A84D-4938008A1D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
